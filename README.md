@@ -68,9 +68,6 @@ Frontend: HTML, CSS, JavaScript, Bootstrap.
 Backend: PHP and MySQL.
 Version Control: Git for efficient collaboration and version control.
 
-* []()
-* []()
-
 ### Creating A Pull Request
 
 
