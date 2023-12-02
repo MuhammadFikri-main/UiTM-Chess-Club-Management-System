@@ -10,18 +10,18 @@
     "Checkmate Chaos, Mastered: Your Ultimate UITM Chess Club Command Center!"
     <br/>
     <br/>
-    <a href="https://github.com/Muhammad Fikri/UiTM-Chess-Club-Management-System"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MuhammadFikri-main/UiTM-Chess-Club-Management-System"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Muhammad Fikri/UiTM-Chess-Club-Management-System">View Demo</a>
+    <a href="https://github.com/MuhammadFikri-main/UiTM-Chess-Club-Management-System">View Demo</a>
     .
-    <a href="https://github.com/Muhammad Fikri/UiTM-Chess-Club-Management-System/issues">Report Bug</a>
+    <a href="https://github.com/MuhammadFikri-main/UiTM-Chess-Club-Management-System/issues">Report Bug</a>
     .
-    <a href="https://github.com/Muhammad Fikri/UiTM-Chess-Club-Management-System/issues">Request Feature</a>
+    <a href="https://github.com/MuhammadFikri-main/UiTM-Chess-Club-Management-System/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Muhammad Fikri/UiTM-Chess-Club-Management-System/total) ![Contributors](https://img.shields.io/github/contributors/Muhammad Fikri/UiTM-Chess-Club-Management-System?color=dark-green) ![Issues](https://img.shields.io/github/issues/Muhammad Fikri/UiTM-Chess-Club-Management-System) ![License](https://img.shields.io/github/license/Muhammad Fikri/UiTM-Chess-Club-Management-System) 
+![Downloads](https://img.shields.io/github/downloads/MuhammadFikri-main/UiTM-Chess-Club-Management-System/total) ![Contributors](https://img.shields.io/github/contributors/MuhammadFikri-main/UiTM-Chess-Club-Management-System?color=dark-green) ![Issues](https://img.shields.io/github/issues/MuhammadFikri-main/UiTM-Chess-Club-Management-System) ![License](https://img.shields.io/github/license/MuhammadFikri-main/UiTM-Chess-Club-Management-System) 
 
 ## Table Of Contents
 
